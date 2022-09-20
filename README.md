@@ -31,8 +31,7 @@ To deploy this project run
 ```
 
 ## Screenshots
-<h2> APP :- </h2>
+
 ![](https://github.com/lakshyaagr1105/photoMart/blob/main/photoMart/public/photoMart.png)
 
-<h2>When a picture is clicked </h2>
 ![](https://github.com/lakshyaagr1105/photoMart/blob/main/photoMart/public/focused.png)
